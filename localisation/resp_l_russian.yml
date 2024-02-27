@@ -1,0 +1,8 @@
+﻿l_russian:
+ building_resp_logistics_office:0 "Логистический офис"
+ building_resp_logistics_office_desc:0 "Логистический офис позволяет снижать штрафы от размера империи на науку и единство."
+
+ job_resp_logistics_officer:0 "Сотрудник по логистике"
+ job_resp_logistics_officer_plural:0 "Сотрудники по логистике"
+ job_resp_logistics_officer_desc:0 "Сотрудники по логистике уменьшают штрафы от размера империи на науку и единство. Эффективтость сотрудников кратно усиливается от уровня губернатора управляющего этой планетой."
+ mod_job_resp_logistics_officer_add:0 "Деятельность: $job_resp_logistics_officer$"

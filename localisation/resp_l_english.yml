@@ -1,0 +1,8 @@
+﻿l_english:
+ building_resp_logistics_office:0 "Logistics office"
+ building_resp_logistics_office_desc:0 "Logistics office allows you to reduce penalties from empire size on science and unity."
+
+ job_resp_logistics_officer:0 "Logistics officer"
+ job_resp_logistics_officer_plural:0 "Logistics officers"
+ job_resp_logistics_officer_desc:0 "Logistics Officers reduce penalties from empire size on science and unity. The efficiency of the staff is multiplied by the level of the governor governing that planet."
+ mod_job_resp_logistics_officer_add:0 "$job_resp_logistics_officer$ Jobs"

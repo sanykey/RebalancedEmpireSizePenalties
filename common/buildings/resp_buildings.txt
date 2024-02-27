@@ -1,0 +1,23 @@
+building_resp_logistics_office = {
+	base_buildtime = @b1_time
+	base_cap_amount = 1
+	category = government
+
+	allow = {
+		has_upgraded_capital = yes
+	}
+
+	resources = {
+		category = planet_buildings
+		cost = {
+			minerals = @b1_minerals
+		}
+		upkeep = {
+			energy = 2
+		}
+	}
+
+	planet_modifier = {
+		job_resp_logistics_officer_add = 2
+	}
+}

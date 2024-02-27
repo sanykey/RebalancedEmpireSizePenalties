@@ -1,0 +1,10 @@
+# this = country
+resp_job_resp_logistics_officer_output_modifier = {
+  base = 1
+	complex_trigger_modifier = {
+		trigger = has_skill
+		trigger_scope = planet.leader
+		mode = multiply
+	}
+}
+
