@@ -25,8 +25,8 @@ resp_logistics_officer = {
 			exists = owner
 			planet = { exists = leader }
 		}
-		tradition_cost_empire_size_mult = -0.005
-		tech_cost_empire_size_mult = -0.005
+		tradition_cost_empire_size_mult = -0.008
+		tech_cost_empire_size_mult = -0.008
 
 		mult = value:resp_job_resp_logistics_officer_output_modifier
 	}
@@ -39,8 +39,8 @@ resp_logistics_officer = {
 			}
 		}
 
-		tradition_cost_empire_size_mult = -0.003
-		tech_cost_empire_size_mult = -0.003
+		tradition_cost_empire_size_mult = -0.005
+		tech_cost_empire_size_mult = -0.005
 	}
 
 	weight = {
